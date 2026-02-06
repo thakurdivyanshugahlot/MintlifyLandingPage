@@ -52,20 +52,6 @@ The website features a modern, clean aesthetic with:
    - Email signup form
    - Hero image showcase
 
-3. **Feature Sections**
-   - **LLMs.txt & MCP**: AI integration capabilities
-   - **Agent**: Self-updating knowledge management
-   - **Assistant**: Intelligent user assistance
-   - **Enterprise Solutions**: Enterprise-grade capabilities
-
-4. **Social Proof**
-   - Featured companies showcase
-   - Anthropic partnership highlight
-
-5. **Call-to-Action & Footer**
-   - Get started buttons
-   - Comprehensive footer with product, company, and resource links
-
 ## Getting Started
 
 To use this website:
