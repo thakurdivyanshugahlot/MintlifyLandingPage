@@ -1,5 +1,8 @@
 # Mintlify - The Intelligent Knowledge Platform
 
+## demo ---> vercel 
+ https://vercel.com/divyanshu-gahlots-projects/mintlify-landing-page/6dxWqKNnhTaB4No8LYZRof7zN35n
+
 
 
 
@@ -7,7 +10,7 @@
 
 ```
 Mintlify/
-├── page.html          # Main website markup
+├── index.html          # Main website markup
 ├── index.css          # Complete styling for the platform
 ├── README.md          # This file
 └── assets/            # Image and icon resources
